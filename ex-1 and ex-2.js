@@ -1,8 +1,8 @@
-//EX-1 Start coding here
+//Exercise #1: Variable Creation Start coding here
 
 
 
 
 
 
-//EX-2 Start coding here
+//Exercise #2: Variable Reassignment
