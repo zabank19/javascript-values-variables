@@ -1,3 +1,3 @@
 let celcius = 30;
 
-// Start coding here;
+//Exercise #3: Celsius to Fahrenheit Start coding here;
