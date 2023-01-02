@@ -10,6 +10,6 @@ describe("Exercise 3", () => {
     const func = new Function(code);
     const result = func();
 
-    expect(result).toEqual(86);
+    expect(result).toStrictEqual(86);
   });
 });
